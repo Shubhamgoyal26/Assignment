@@ -10,7 +10,7 @@ int main(void){
 
     for(int i = 0; i < stairs; i++){
         for(int j = 0; j <= i; j++){
-            printf("01");
+            printf("%s", "01");
         }
         printf("\n");
     }
