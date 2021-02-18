@@ -1,6 +1,5 @@
 // Checking whether a number is prime or not using recursion
 #include<stdio.h>
-#include<math.h>
 #include<stdbool.h>
 
 int prime(int, int);
