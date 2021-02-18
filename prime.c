@@ -1,4 +1,4 @@
-// Checking whetehr a number is prime or not using recursion
+// Checking whether a number is prime or not using recursion
 #include<stdio.h>
 #include<math.h>
 #include<stdbool.h>
